@@ -2,7 +2,6 @@
 // para resolver el problema.
 
 let amigos = [];
-let sorteados = []; // Para asegurar que no se sortee dos veces el mismo amigo.
 
 function agregarAmigo() {
   let nombre = document.getElementById("amigo").value;
